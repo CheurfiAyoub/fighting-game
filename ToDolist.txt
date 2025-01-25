@@ -1,0 +1,20 @@
+#Project Setup#
+#Create player and enemy#
+#move charactere with event listener#
+#attacks#
+#health bar interface#
+#game timer and game over#
+
+
+#Background Sprite#
+#Shop Sprite with Animation#
+Player Sprite (Samurai Mack)
+Enemy Sprite (Kenji)
+Interface Design and Animation
+Pushing Live
+
+
+
+
+
+https://www.youtube.com/watch?v=vyqbNFMDRGQ&list=PLC84KBd4zC3jJ9wRaT8Xj-eK-ZLLH3j5U&index=9
